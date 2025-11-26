@@ -1,0 +1,8 @@
+{
+  "name": "guru-tech-lab",
+  "private": true,
+  "workspaces": [
+    "backend",
+    "frontend"
+  ]
+}
